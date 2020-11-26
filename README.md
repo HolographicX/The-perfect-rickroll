@@ -1,6 +1,6 @@
 # The-perfect-rickroll
 
-This simple code, when executed, prints the first 6 lines of "Never gonna give you up" and then opens up Crome and plays the Never gonna YouTube video
+This simple code, when executed, prints the first 6 lines of "Never gonna give you up" and then opens up Chrome and plays the Never gonna YouTube video
 
 For this to work, you wil need:
 Python,
